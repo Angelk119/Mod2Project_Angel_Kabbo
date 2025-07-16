@@ -47,14 +47,20 @@ Our analysis revealed three certainties that form the foundation of our strategi
 **1. The Market is Overwhelmingly Young**
 
 While the average age of a licensed dog in NYC is 6.0 years, the age distribution histogram clearly shows a massive peak for dogs between 1 and 4 years old. This demographic represents a "fountain of youth" for a new clinic—a constant and significant stream of new patients requiring foundational care like vaccinations, spay/neuter procedures, and initial wellness checks.
+<img width="567" height="464" alt="Screenshot 2025-07-16 at 3 06 12 PM" src="https://github.com/user-attachments/assets/03fe5344-6530-42d9-b633-bde9892054e3" />
+<img width="564" height="215" alt="Screenshot 2025-07-16 at 3 10 18 PM" src="https://github.com/user-attachments/assets/c11356a5-e9d9-4287-83cd-b67962e95be9" />
 
 **2. The Youthful Trend is Stable and Reliable**
 
 To ensure this youth boom isn't an anomaly, we analyzed the average dog age by the year the data was extracted. The trend shows that the average age has remained consistently young and stable over time. Although there is a data gap from 2019-2021 (likely due to the COVID-19 pandemic's impact on data collection), the consistency before and after this period gives us confidence that this core demographic is reliable and allows for confident, long-term business planning.
+<img width="1141" height="270" alt="Screenshot 2025-07-16 at 3 08 02 PM" src="https://github.com/user-attachments/assets/b6d79c5d-ca0b-4d3b-8162-6d76882003bb" />
 
 **3. The Target Market is Geographically Concentrated**
 
 The analysis of dog populations by zip code provides a "treasure map" for targeted marketing. We found that the licensed dog population is highly concentrated in specific neighborhoods, particularly within Manhattan and Brooklyn. This allows for incredibly efficient marketing spend, focusing efforts and resources only on these high-density areas.
+
+<img width="581" height="540" alt="Screenshot 2025-07-16 at 3 09 09 PM" src="https://github.com/user-attachments/assets/d8061bda-4b6b-4ff7-87e8-58b333a4a166" />
+<img width="572" height="256" alt="Screenshot 2025-07-16 at 3 09 44 PM" src="https://github.com/user-attachments/assets/cbccc7a0-3e58-4d68-99c6-22cd88a09622" />
 
 ### Tableau Dashboard
 
