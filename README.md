@@ -66,7 +66,7 @@ The analysis of dog populations by zip code provides a "treasure map" for target
 
 For a more interactive exploration of these insights, please view our Tableau dashboard.
 
-[**Link to Tableau Dashboard**](https://public.tableau.com/app/profile/angel.bautista/viz/shared/6Q5XSC2WN)
+[**Link to Tableau Dashboard**](https://public.tableau.com/app/profile/angel.bautista/viz/Mod2ProjectDogDashboard/VetClinicDashboard)
 
 -----
 
